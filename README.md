@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ahmed Ali Mostafa
 
-**`Python Developer`**
+**`Python Developer|Data Analyst`**
 
 Hello, I am  Ahmed Ali. A  self-taught Python programmer with extensive knowledge gained through books and references. I have a strong understanding of Python and actively work with its libraries to solve problems and develop projects.
 
@@ -20,7 +20,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 ### 👾 Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -35,11 +34,11 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
 </a>
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/664eb5eae435b24275fd1740cb050d5079478554958dc25f44a063b40ee65551/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="Scrapy" width="40" height="40"/> 
+    <img src="https://camo.githubusercontent.com/664eb5eae435b24275fd1740cb050d5079478554958dc25f44a063b40ee65551/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="Scrapy" width="50" height="40"/> 
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="40"/> 
 </a>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -47,7 +46,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> 
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="50" height="30"/> 
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -67,7 +66,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="40"/> 
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
@@ -91,7 +90,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   align="left"
   alt="GitHub Streak"
   height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MatMan04&theme=tokyonight&mode=daily&locale=en"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MatMan04&theme=tokyonight&locale=en"
 />
 
 </p>
