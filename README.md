@@ -34,11 +34,11 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
 </a>
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/664eb5eae435b24275fd1740cb050d5079478554958dc25f44a063b40ee65551/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="Scrapy" width="50" height="40"/> 
+    <img src="https://camo.githubusercontent.com/664eb5eae435b24275fd1740cb050d5079478554958dc25f44a063b40ee65551/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="Scrapy" width="60" height="40"/> 
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="40"/> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="60" height="40"/> 
 </a>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
