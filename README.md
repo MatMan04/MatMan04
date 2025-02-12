@@ -85,8 +85,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MatMan04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-</div>
-<div style="display: inline-block;">
 <img
   align="left"
   alt="GitHub Streak"
