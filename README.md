@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ahmed Ali Mostafa
 
-**`Python Developer|Data Analyst`**
+### `Python Developer|Data Analyst`
 
 Hello, I am  Ahmed Ali. A  self-taught Python programmer with extensive knowledge gained through books and references. I have a strong understanding of Python and actively work with its libraries to solve problems and develop projects.
 
