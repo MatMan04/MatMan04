@@ -79,17 +79,15 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <div style="display: inline-block;">
  <img 
-    align="left" 
-    alt="GitHub Stats 1" 
+    align="left"  
     height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MatMan04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 <img
   align="left"
-  alt="GitHub Streak"
   height="150"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MatMan04&theme=tokyonight&locale=en"
+  src="https://streak-stats.demolab.com/?user=MatMan04&theme=tokyonight"
 />
 </div>
 
@@ -97,7 +95,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <img
    align="left"
-   alt="activity-graph graph" 
    height="289"
    style="padding-top: 10px;"
    src="https://github-readme-activity-graph.vercel.app/graph?username=MatMan04&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
