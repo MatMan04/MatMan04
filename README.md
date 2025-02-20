@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7243C&width=435&lines=Python+Developer+|Data+Analyst;Always+learning+new+things " alt="Typing SVG" /></a>
 </p> 
 
-<!--### `Python Developer|Data Analyst`-->
+<!--### `Python Developer | Data Analyst`-->
 
 Hello, I am  Ahmed Ali. A  self-taught Python programmer with extensive knowledge gained through books and references. I have a strong understanding of Python and actively work with its libraries to solve problems and develop projects.
 
